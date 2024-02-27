@@ -1,0 +1,17 @@
+https://drive.google.com/file/d/1Wz1bCoVbcTmKXto7L7M-9qXY1boTLJju/view?usp=drive_link
+
+
+PATH
+C:\Program Files\Java\jdk1.8.0_05\bin;
+
+
+CLASSPATH
+C:\Program Files\Java\jdk1.8.0_05\bin;.;
+
+
+JAVA_HOME
+C:\Program Files\Java\jdk1.8.0_05
+
+
+JRE_HOME
+C:\Program Files\Java\jre8
